@@ -7,7 +7,7 @@ nodejs (https://nodejs.org/en/)
 Any text editor {i prefer VSCode} (https://code.visualstudio.com/)
 
 # Step 1
-make sure to paste this code in a new map on your computer.
+make sure to paste the files in a new map on your computer.
 
 # Step 2
 edit the CONFIG.JSON file, and replace the token with the token of your bot (https://discord.com/developers/applications)
