@@ -1,12 +1,12 @@
 {
-  "name": "malint",
+  "name": "BotExample",
   "version": "1.0.0",
-  "description": "a personalisized bot frefoefoerfo by lelzi",
+  "description": "Bot example created by HelixDev on github",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "LELZI (PART OF MEEUWSOFT CORPORATION)",
+  "author": "HelixDev",
   "license": "ISC",
   "dependencies": {
     "discord.js": "^12.2.0"
